@@ -21,7 +21,7 @@ namespace BusraNurMuslu.Blog.MVCUI.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Post()
         {
             ViewBag.Message = "Your contact page.";
 
